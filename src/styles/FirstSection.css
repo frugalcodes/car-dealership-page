@@ -1,0 +1,14 @@
+.page-container {
+    position: relative; /* Required for positioning */
+  }
+  
+  .svg-image {
+    position: absolute;
+    z-index: 1; /* Place the SVG image above components but below background */
+    width: 300px;
+    height: 1022px;
+    left: 800px;
+    top: 0px;
+    
+  }
+  

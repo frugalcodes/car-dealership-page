@@ -1,0 +1,28 @@
+.input-group {
+width: 459px;
+height: 47px;
+padding: 12px 0px 12px 0px;
+border-radius: 10px;
+border: 1px;
+justify-content: space-between;
+margin-top: 25px;
+};
+
+button {
+width: 47px;
+height: 47px;
+padding: 12px;
+border-radius: 0px 10px 10px 0px;
+gap: 10px;
+background-color: #1A89EC;
+};
+
+.icon-color {
+  filter: brightness(0) invert(1);
+  color: #F2F4F7;
+}
+
+img {
+  width: 15px;
+  height: 15px;
+}

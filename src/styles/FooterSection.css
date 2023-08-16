@@ -1,0 +1,70 @@
+/* Styling for paragraph text */
+.ptxt {
+  font-family: Lexend;
+  font-size: 16px; /* Reduced font size */
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 40px;
+}
+
+/* Styling for logos */
+.logos {
+  width: 32px;
+  height: 32px;
+}
+
+/* Styling for prominent buy text */
+.buyV {
+  font-family: Lexend;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 46.27px;
+  margin-top: 77.66px;
+}
+
+/* Styling for common buy text */
+.buyC, .buyCu, .buyF, .buyP {
+  font-family: Lexend;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 27px; /* Reduced margin */
+}
+
+/* Styling for cards */
+.card-2 {
+  background-color: transparent;
+  border: none;
+  font-family: Lexend;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px; /* Increased line height */
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0;
+}
+
+/* Styling for images inside cards */
+.card-2 img {
+  width: 24px;
+  height: 24px;
+}
+
+/* Styling for small pieces of text */
+.engtxt {
+  margin: 0 6px; /* Adjusted margin */
+}
+
+/* Styling for layout */
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: -15px; /* Negative margin to align content */
+  margin-bottom: 50px;
+}
