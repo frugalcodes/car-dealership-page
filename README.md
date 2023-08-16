@@ -49,7 +49,7 @@ This project aims to closely align with the design provided in the Figma file. I
 
 ## Responsive Design
 
-This web page has been designed with responsiveness in mind, ensuring optimal display on various devices and screen sizes. The use of Bootstrap (if applicable) helps maintain a consistent and user-friendly experience across different platforms.
+This web page has been designed with responsiveness in mind, ensuring optimal display on various devices and screen sizes. The use of Bootstrap helps maintain a consistent and user-friendly experience across different platforms.
 
 ## Contributing
 
