@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The project is aimed at creating a responsive web page based on a design provided in a Figma file. The primary purpose of this exercise is to assess the ability to translate design concepts into a functional web interface using React. The completed web page should closely align with the design and effectively adapt to various device sizes, ensuring a consistent user experience. Through this project, proficiency in web development, responsive design, and utilization of front-end frameworks will be evaluated.
+The project is aimed at creating a responsive web page based on a design provided in a Figma file. The primary purpose of this project is to assess the ability to translate design concepts into a functional web interface using React. 
 
 ## Table of Contents
 
