@@ -22,7 +22,6 @@ This project aims to closely align with the design provided in the Figma file. I
 
 ## Screenshots
 
-Insert screenshots of your web page here. You can add a caption to each screenshot explaining what's being displayed.
 
 ![Screenshot 1](./src/images/readmePic.png)
 
