@@ -31,7 +31,7 @@ This project aims to closely align with the design provided in the Figma file. I
 ## Technologies Used
 
 - React
-- Bootstrap (if applicable)
+- Bootstrap
 - Figma (for design reference)
 - GitHub Pages (for hosting)
 
