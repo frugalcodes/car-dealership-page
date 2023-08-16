@@ -15,7 +15,9 @@ const MainSection = () => (
             We will serve you to get dream car here easily and quickly that is reliable.
             </p> {/* Description */}
           </div>
-          <Search /> {/* Rendering the Search component */}
+          <div className="search-sp">
+          <Search />
+          </div> {/* Rendering the Search component */}
           <div className="bmw">
             <h1 className="bmw-text">BMW Series 3 BLUE</h1> {/* Car model title */}
             <div className="container-2"> {/* Container for car details */}
