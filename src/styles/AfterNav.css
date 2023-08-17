@@ -97,7 +97,7 @@
 @media screen and (max-width: 768px) {
   .h1-text {
     width: 400px;
-    font-size: 30px;
+    font-size: 45px;
     height: auto;
     line-height: 50px;
     padding: 0;
@@ -118,7 +118,7 @@
   }
 
   .bmw-text {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 45px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -131,7 +131,7 @@
   }
 
   .logo-subtext {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 30px;
     color: #667085;
   }
@@ -141,7 +141,7 @@
   }
 
   .container-2 {
-    gap: 50px;
+    gap: 30px;
     margin-bottom: 48px;
   }
 

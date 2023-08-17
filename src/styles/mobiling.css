@@ -248,6 +248,63 @@ h6 {
 
 @media screen and (max-width: 768px) {
 
+ 
+
+  h1 {
+    
+    font-size: 25px;
+    margin: 40px 0 22px 0;
+  
+  }
+
+  /* Heading 3 styles */
+h3 {
+  margin-top: 20px;
+  margin-bottom: 18px;
+  font-size: 22px;
+}
+
+/* Heading 6 styles */
+h6 {
+  font-size: 12px;
+}
+
+.outer-container {
+  border-radius: 0;
+  
+  margin-bottom: 40px;
+}
+
+/* About section heading styles */
+.abt {
+  
+  font-size: 25px;
+
+}
+
+/* Founders section styles */
+.fnd {
+  font-family: Lexend;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 4px;
+  margin-bottom: 15px;
+}
+
+/* Explanation section styles */
+.expl {
+  font-family: Lexend;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
   .bt-1 {
     font-size: 12px; /* Adjust font size for smaller screens */
     padding: 6px 10px; /* Further reduce padding for smaller screens */
@@ -320,7 +377,7 @@ h6 {
     width: 100%;
     max-width: 560px;
     margin: auto;
-    border-radius: 30px;
+    border-radius: 0px;
 }
 
 
