@@ -7,3 +7,17 @@ body {
 code {
   font-family: Lexend;
 }
+
+@media screen and (max-width: 768px) {
+
+  .container {
+      overflow-x: hidden;
+    }
+
+
+    body {
+      overflow-x: hidden;
+    }
+
+
+}
