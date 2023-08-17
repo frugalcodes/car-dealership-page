@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/car-dealership-page/static/css/main.b98597f7.css",
+    "main.css": "/car-dealership-page/static/css/main.db526bc4.css",
     "main.js": "/car-dealership-page/static/js/main.347e30d6.js",
     "static/js/787.23b8f5c7.chunk.js": "/car-dealership-page/static/js/787.23b8f5c7.chunk.js",
     "static/media/carimage.svg": "/car-dealership-page/static/media/carimage.edecc6928d844825f8e3585b804cbdd5.svg",
@@ -14,20 +14,20 @@
     "static/media/twitter.svg": "/car-dealership-page/static/media/twitter.14df6067ee602cca2ce395f6e26a94f4.svg",
     "static/media/logoSVG.svg": "/car-dealership-page/static/media/logoSVG.e919d391380c3e015603868a3d22f505.svg",
     "static/media/rightArrow2.svg": "/car-dealership-page/static/media/rightArrow2.f239c7617ce91d5e0a0e0dea7cc9335a.svg",
-    "static/media/arrowDown3.svg": "/car-dealership-page/static/media/arrowDown3.38c03fe9bac184664040fe2c2eebed15.svg",
     "index.html": "/car-dealership-page/index.html",
+    "static/media/arrowDown3.svg": "/car-dealership-page/static/media/arrowDown3.38c03fe9bac184664040fe2c2eebed15.svg",
     "static/media/fb.svg": "/car-dealership-page/static/media/fb.cc497208229066d38de753c3195ddbce.svg",
     "static/media/icon.svg": "/car-dealership-page/static/media/icon.263f903b99819d15b30da176a41a1d83.svg",
     "static/media/rightArrow.svg": "/car-dealership-page/static/media/rightArrow.9c20b8573cb64fb5153343d20ebf34d3.svg",
     "static/media/logo2.svg": "/car-dealership-page/static/media/logo2.43f090d4871b0f57e783afda42bd0ca3.svg",
     "static/media/backgroundblue.svg": "/car-dealership-page/static/media/backgroundblue.7df6d7a9b08c2cc9646c4868f138279f.svg",
     "static/media/vectorCircle.svg": "/car-dealership-page/static/media/vectorCircle.87b771dfc1586e36ec7d36558dd0fa59.svg",
-    "main.b98597f7.css.map": "/car-dealership-page/static/css/main.b98597f7.css.map",
+    "main.db526bc4.css.map": "/car-dealership-page/static/css/main.db526bc4.css.map",
     "main.347e30d6.js.map": "/car-dealership-page/static/js/main.347e30d6.js.map",
     "787.23b8f5c7.chunk.js.map": "/car-dealership-page/static/js/787.23b8f5c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b98597f7.css",
+    "static/css/main.db526bc4.css",
     "static/js/main.347e30d6.js"
   ]
 }
